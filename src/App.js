@@ -4,7 +4,7 @@ import Box from './component/Box';
 import GrandSonBox from './component/GrandSonBox';
 import { useState } from 'react';
 
-const selectNumArr = [1,2,3,4,5];
+const selectNumArr = [1,2,4,8,16];
 
 function App() {
   // useSelector 은 함수를 매개변수로 받는다.
